@@ -1,1 +1,1 @@
-.hero{background-image:url(../images/illustration-hero-mobile.png);background-position:center top;background-size:400px;height:600px}
+.hero{background-image:url(../images/illustration-hero-mobile.png),url(../images/icon-scroll.svg);background-position:center top,center bottom 20px;background-size:400px,20px;height:600px}
